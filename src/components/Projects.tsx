@@ -40,8 +40,8 @@ const Projects: React.FC = () => {
       duration: "1 month",
       team: "Solo project",
       status: "Live",
-      liveUrl: "#",
-      githubUrl: "#",
+      liveUrl: "https://portfolio-rg-chi.vercel.app",
+      githubUrl: "https://github.com/ribsh689/portfolio-rg",
       featured: false
     }
   ];
